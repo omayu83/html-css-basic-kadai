@@ -10,7 +10,7 @@ body {
   color: rgb(255, 192, 203);
 }
 h1 {
-  font-family: "Noto Sans JP", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
@@ -19,7 +19,7 @@ h1 {
   text-shadow: 5px 5px 2px gray;
   border-bottom: solid 3px rgb(115, 115, 114);
 }
-div {
+div p {
   font-weight: bold;
 }
 
